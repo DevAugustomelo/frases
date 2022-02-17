@@ -1,6 +1,6 @@
-# Frases
+# Frases :thinking:
 
-### Frases diversas
+### Frases diversas:
 
-1. Motivacional
-2. Curtas
+1. Motivacional :muscle:
+2. Curtas :penguin:
